@@ -1,6 +1,6 @@
 import os
 import joblib
-import spacy
+#import spacy
 
 from django.shortcuts import render
 from .forms import SentimentPredictionForm
